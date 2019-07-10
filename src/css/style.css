@@ -1,0 +1,6 @@
+div.test{
+  display: flex;
+}
+::placeholder {
+  color: gray;
+}
